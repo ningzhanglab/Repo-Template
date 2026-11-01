@@ -18,7 +18,7 @@ If you used AI, review generated content and code yourself; do not claim verific
 
 ## Records and documentation
 
-Use Git history for routine edits. Update [CHANGELOG.md](CHANGELOG.md) when a change materially affects users. Only create a detailed record under [logs/](logs/README.md) when a decision or evaluation merits preserving its reasoning or evidence.
+Use Git history for routine edits. Update [CHANGELOG.md](CHANGELOG.md) when a change materially affects users. Only create a detailed record under [records/](records/README.md) when a decision or evaluation merits preserving its reasoning or evidence.
 
 Do not submit passwords, tokens, personal or confidential data, or material you do not have rights to publish.
 
