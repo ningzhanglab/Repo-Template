@@ -31,6 +31,10 @@ Do **not** make a detailed record for every commit, PR, routine editorial task, 
 
 `records/README.md` explains conventions, with examples of what does and does not warrant a record; do not maintain a second manual list of every record there. Preserve historical evidence: when a decision or finding is replaced, write a new record and mark the old one `Superseded` with a link, rather than rewriting it. Keep records concise and truthful: distinguish intended outcomes from demonstrated results, and say **Not run** for unperformed checks.
 
+When you write or substantially edit a record, fill in its **AI assistance** line: name the tool and the exact model identifier your tool reports (do not guess or substitute a marketing name; write "model not reported" if you cannot tell), and state briefly what you did (for example, drafted the analysis, ran the evaluation) and what remains for a person to verify. Leave **Responsible** for the human who owns the record. Do not paste session transcripts or step-by-step activity into records.
+
+When you add a `CHANGELOG.md` entry, put it under `## Unreleased` and link the PR. Only when a maintainer asks for a release, move those entries under a dated heading (see `CHANGELOG.md`).
+
 ## Documentation and handoff
 
 - Keep `README.md` accurate when setup, purpose, outputs, or usage changes.
