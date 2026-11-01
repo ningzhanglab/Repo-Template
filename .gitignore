@@ -1,0 +1,16 @@
+# Local system and editor noise
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+
+# Local environment variables and credentials
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Customize for the actual project language/toolchain.
+# Do not blindly ignore reproducible source files or required data.
