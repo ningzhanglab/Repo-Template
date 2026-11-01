@@ -13,7 +13,7 @@ What files or behaviors changed? Note any unexpected edits or deletions.
 - [ ] Ran relevant tests/builds/previews (describe below)
 - [ ] Updated user-facing documentation if needed
 - [ ] Updated `CHANGELOG.md` if user-facing behavior changed
-- [ ] Added a `logs/` record **only if** a substantial decision or evaluation warranted one
+- [ ] Added a `records/` entry **only if** a substantial decision or evaluation warranted one
 
 **Tests/checks actually performed:** 
 
@@ -25,4 +25,4 @@ What was AI-assisted, and what was independently reviewed?
 
 ## Related Issue
 
-Link an Issue if one exists; small changes may not have one.
+Link an Issue if one exists; small changes may not have one. Writing `Closes #123` here links the Issue and closes it automatically when this PR is merged.

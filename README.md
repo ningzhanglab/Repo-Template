@@ -20,12 +20,12 @@ Document dependencies, environment setup, data provenance and licensing, and how
 
 ## Contributing
 
-See [CONTRIBUTING.md](CONTRIBUTING.md) for human contributors and [AGENTS.md](AGENTS.md) for AI-agent maintenance instructions.
+See [CONTRIBUTING.md](CONTRIBUTING.md) for human contributors and [AGENTS.md](AGENTS.md) for AI-agent maintenance instructions. `CLAUDE.md` and `.github/copilot-instructions.md` are one-line pointers to `AGENTS.md` for tools that look for those filenames; keep the rules in `AGENTS.md` only.
 
 ## Project history
 
 - [CHANGELOG.md](CHANGELOG.md) summarizes significant user-facing changes.
-- [logs/README.md](logs/README.md) explains when to write a detailed decision or evaluation record.
+- [records/README.md](records/README.md) explains when to write a detailed decision, experiment, or evaluation record.
 - Git commits and pull requests are the authoritative record of file changes.
 
 ## Before publishing this project

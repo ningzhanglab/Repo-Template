@@ -1,10 +1,14 @@
 # YYYY-MM-DD — Decision / experiment / investigation title
 
-> Optional starting point. Copy this file to `logs/YYYY-MM-DD-topic.md` only for a substantial event. Remove irrelevant sections.
+> Optional starting point. Copy this file to `records/YYYY-MM-DD-topic.md` only for a substantial event. Remove irrelevant sections and unused fields.
 
 - **Date:** YYYY-MM-DD
-- **Status:** Proposed / Implemented / Evaluated / Partial
+- **Type:** Decision / Experiment / Evaluation / Investigation / Migration
+- **Status:** Proposed / Implemented / Evaluated / Partial / Rejected / Superseded
+- **Tags:** short, lowercase, comma-separated topics (for example: data-cleaning, reproducibility)
 - **Related Issue / PR:** Link if available
+- **Supersedes:** Link to the earlier record this replaces, if any
+- **Superseded by:** Link to the later record that replaces this one, if any (added later; see `records/README.md`)
 
 ## Why this mattered
 

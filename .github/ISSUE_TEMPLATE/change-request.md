@@ -22,7 +22,7 @@ List relevant files, non-goals, data/privacy constraints, and any backward-compa
 
 - [ ] Intended outcome is implemented
 - [ ] Relevant checks were run or clearly marked not run
-- [ ] Documentation and logs were updated only where warranted
+- [ ] Documentation, changelog, and `records/` were updated only where warranted
 
 ## References
 
